@@ -23,3 +23,8 @@ Instale o [Docker](https://www.docker.com) e [Docker compose](https://docs.docke
 poetry shell
 python main.py
 ```
+
+## Instruções 👨‍💻
+**Os principais arquivos são o ```main.py``` e o ```DataChellengeCarrefour.ipynb```** 
+- **O arquivo ```main.py``` é o que inicia a API e salva os dados dentro do MongoDB.**
+- **Já o arquivo ```DataChellengeCarrefour.ipynb``` é o principal para a visualização dos dados e dos graficos**
